@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```
 2. Run the server using Flask's dev server
 ```shell
-python3 app.py
+python3 run.py
 ```
 You should see the following output
 ```shell
